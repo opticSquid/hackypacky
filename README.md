@@ -52,6 +52,8 @@ Go through the checklist on the pull request template to guarantee your submissi
   <img src="https://contrib.rocks/image?repo=opticSquid/hackypacky" />
 </a>
 
+Made with [contrib.rocks](https://contrib.rocks).
+
 ### "All the best for the event" ✨
 
 
