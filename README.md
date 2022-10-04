@@ -33,8 +33,8 @@ available if you need it. Wrapped at 72 characters. Present imperative
 tense is preferred for commits. That means "fix bug", not "fixes bug" or
 "fixed bug". And don't forget to tell how your project works...
 
-- Use bullets if you need 
-- Bullets are a good way to summarize a few things
++ Use bullets if you need 
++ Bullets are a good way to summarize a few things
 
 If you have too much info here, it might be a good candidate to break
 down into multiple commits. You can even use emojis here too :sparkles:
